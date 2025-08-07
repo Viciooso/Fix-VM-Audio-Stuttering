@@ -24,3 +24,6 @@ git clone https://github.com/your-username/fix-vm-audio.git
 cd fix-vm-audio
 chmod +x fix_vm_audio.sh
 ./fix_vm_audio.sh
+```
+### Option 2: Curl
+```bash <(curl -s https://raw.githubusercontent.com/your-username/fix-vm-audio/main/fix_vm_audio.sh)```
