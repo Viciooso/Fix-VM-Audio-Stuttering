@@ -21,7 +21,7 @@ This script applies a fix by setting:
 
 ```bash
 git clone https://github.com/Viciooso/Fix-VM-Audio-Stuttering.git
-cd fix-vm-audio
+cd Fix-VM-Audio-Stuttering
 chmod +x fix_vm_audio.sh
 ./fix_vm_audio.sh
 ```
