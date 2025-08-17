@@ -20,7 +20,7 @@ This script applies a fix by setting:
 ### Option 1: Clone and Run
 
 ```bash
-git clone https://github.com/your-username/fix-vm-audio.git
+git clone https://github.com/Viciooso/Fix-VM-Audio-Stuttering.git
 cd fix-vm-audio
 chmod +x fix_vm_audio.sh
 ./fix_vm_audio.sh
