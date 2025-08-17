@@ -26,4 +26,4 @@ chmod +x fix_vm_audio.sh
 ./fix_vm_audio.sh
 ```
 ### Option 2: Curl
-```bash <(curl -s https://raw.githubusercontent.com/Viciooso/Fix-VM-Audio-Stuttering/refs/heads/main/fix_vm_audio.sh)```
+```curl -s https://raw.githubusercontent.com/Viciooso/Fix-VM-Audio-Stuttering/refs/heads/main/fix_vm_audio.sh | bash```
